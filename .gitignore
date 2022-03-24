@@ -1,4 +1,4 @@
-_pycache_/
+tutorial/__pycache__/
 .env
 data/
-.db.sqlite3
+db.sqlite3
